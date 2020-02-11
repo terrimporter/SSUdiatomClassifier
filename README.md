@@ -6,6 +6,16 @@ This repository contains trained reference sets that can be used with the Riboso
 
 This classifier is suitable for classifying diatom SSU sequences to genus or order rank depending on the level of confidence required in the taxonomic assignments.  To classify a broader diversity of taxa, there is a Eukaryote 18S reference set available at https://github.com/terrimporter/18SClassifier .
 
+## How to cite
+
+If you use this SSU diatom reference set in a publication, please link to this page in your methods section and cite the diatom barcode database:
+
+Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and fr3eshwater monitoring.  Database: baw016. 
+
+If you use this reference set with the RDP classifier please also cite:
+
+Wang et al. (2007) Naïve Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Applied and Environmental Microbiology, 73: 5261.
+
 # Releases
 
 ### SSU diatom v1.0
