@@ -1,4 +1,4 @@
-# Introduction
+# SSU Diat.barcode Reference Set For The RDP Classifier
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4741481.svg)](https://doi.org/10.5281/zenodo.4741481)  
 
