@@ -1,5 +1,7 @@
 # Introduction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4741481.svg)](https://doi.org/10.5281/zenodo.4741481)  
+
 This repository contains trained reference sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) to taxonomically assign Diatom SSU rDNA sequences.  The latest releases can be downloaded from https://github.com/terrimporter/SSUdiatomClassifier/releases
 
 ## Note
@@ -8,7 +10,10 @@ This classifier is suitable for classifying diatom SSU sequences to genus or ord
 
 ## How to cite
 
-If you use this SSU diatom reference set in a publication, please link to this page in your methods section and cite the diatom barcode database:
+You can cite this repository directly:  
+SSU Diatom Classifier, DOI: 10.5281/zenodo.4741481  
+
+Also, please cite the original diatom barcode database:
 
 Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
 
@@ -93,4 +98,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: March 31, 2021
+Last updated: May 6, 2021
