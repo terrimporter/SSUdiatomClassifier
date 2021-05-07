@@ -11,11 +11,11 @@ This classifier is suitable for classifying diatom SSU sequences to genus or ord
 ## How to cite
 
 You can cite this repository directly:  
-SSU Diatom Classifier, DOI: 10.5281/zenodo.4741481  
+Teresita M. Porter. (2020, February 11). SSU Diat.barcode Reference Set For The RDP Classifier (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.4741481   
 
 Also, please cite the original diatom barcode database:
 
-Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
+Rimet, F., Gusev, E., Kahlert, M., Kelly, M. G., Kulikovskiy, M., Maltsev, Y., … Bouchez, A. (2019). Diat.barcode, an open-access curated barcode library for diatoms. Scientific Reports, 9(1), 15116. doi: 10.1038/s41598-019-51500-6  
 
 If you use this reference set with the RDP classifier please also cite:
 
